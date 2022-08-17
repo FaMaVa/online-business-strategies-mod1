@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* Semantic HTML Elements */
+
 body {
     background-color: #d9dcd6;
 }
@@ -64,6 +66,8 @@ a {
     text-decoration: none;
 }
 
+/* Meeting Image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +76,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* Contents Section */
 
 .contents {
     width: 75%;
@@ -101,6 +107,8 @@ a {
     float: right;
     margin-left: 25px;
 }
+
+/* Benefits Section */
 
 .benefits {
     margin-right: 20px;
