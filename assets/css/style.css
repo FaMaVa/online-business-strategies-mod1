@@ -4,10 +4,7 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
+/* Top section of the website, including webpage name and links to strategies */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +12,7 @@ header {
     color: #ffffff;
 }
 
+/* Link's section */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -23,6 +21,7 @@ nav {
     font-size: 20px;
 }
 
+/* Link's */
 a {
     display: inline-block;
     margin-left: 25px;
@@ -30,6 +29,7 @@ a {
     text-decoration: none;
 }
 
+/* Benefit's section of the webpage */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -41,23 +41,27 @@ aside {
     background-color: #2589bd;
 }
 
+/* Each befefit */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Images in the benefit's section */
 aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Strategy section */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Each strategy */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -67,33 +71,12 @@ main section {
     color: #ffffff;
 }
 
+/* The images in the strategy section */
 main section img {
     max-height: 200px;
 }
 
-p {
-    font-size: 16px;
-}
-
-h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-h4 {
-    font-size: 20px;
-}
-
+/* Footer section at the bottom of the site */
 footer {
     padding: 30px;
     clear: both;
@@ -101,6 +84,35 @@ footer {
     text-align: center;
 }
 
+/* The descriptions throughout the webpage and publisher in footer */
+p {
+    font-size: 16px;
+}
+
+/* The webpage name at the top of the site */
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* Strategy titles */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Benefit titles */
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Ending note in footer */
+h4 {
+    font-size: 20px;
+}
+
+/* Meeting image at the beginning of webpage */
 .hero {
     height: 800px;
     width: 100%;
@@ -110,11 +122,13 @@ footer {
     background-position: center;
 }
 
+/* Strategy images that are to the left of the section */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Strategy images that are to the right of the section */
 .float-right {
     float: right;
     margin-left: 25px;
