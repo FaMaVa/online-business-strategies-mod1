@@ -18,7 +18,7 @@ N/A
 ## Usage
 
 Link to webpage: 
-<br/> https://faithmvaz.github.io/online-business-strategies-mod1/
+<br/> https://famava.github.io/online-business-strategies-mod1/
 <br/>
 <br/>To use the webpage, you can click one of the links at the right of the header, and it will direct you to that specific strategy and description. For example, if I wanted to read about "Social Media Marketing", I would click the link at the top-right corner that says, "Social Media Marketing", and it would direct me to the bottom of the page where the description is. You can also scroll down to read about each strategy as well. The benefits of the strategies are listed to the right of the webpage and are viewed by scrolling down.
 
